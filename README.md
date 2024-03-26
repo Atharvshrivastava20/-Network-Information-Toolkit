@@ -19,7 +19,7 @@ nmap command-line tool
 ```
 pip install requests
 ```
-###For nmap, please refer to the official installation guide at [Nmap's website].(https://nmap.org/)
+###For nmap, please refer to the official installation guide at [Nmap's website](https://nmap.org/)
 
 ## Installation
 ### Clone this repository or download the script directly:
