@@ -19,7 +19,7 @@ nmap command-line tool
 ```
 pip install requests
 ```
-###For nmap, please refer to the official installation guide at Nmap's website.[https://nmap.org/]
+###For nmap, please refer to the official installation guide at [Nmap's website].(https://nmap.org/)
 
 ## Installation
 ### Clone this repository or download the script directly:
@@ -51,7 +51,7 @@ This script is for educational and research purposes only. Ensure you have permi
 Contributions to improve the script or add new features are welcome. Please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md[https://github.com/Atharvshrivastava20/-Network-Information-Toolkit/blob/main/README.md] file for details.
+This project is licensed under the [MIT License - see the LICENSE.md](https://github.com/Atharvshrivastava20/-Network-Information-Toolkit/blob/main/README.md) file for details.
 
 
 
